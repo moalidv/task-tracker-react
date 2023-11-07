@@ -1,58 +1,10 @@
 {
   "tasks": [
     {
-      "text": "fvfvfvbb",
-      "day": "bbbb",
+      "text": "interview ",
+      "day": "tomorrow ",
       "reminder": false,
       "id": 1
-    },
-    {
-      "text": "fgrgrg",
-      "day": "hrhrh",
-      "reminder": true,
-      "id": 4
-    },
-    {
-      "text": "vffvfv",
-      "day": "bbbbbb",
-      "reminder": false,
-      "id": 6
-    },
-    {
-      "text": "grgrg",
-      "day": "rgrgr",
-      "reminder": false,
-      "id": 7
-    },
-    {
-      "text": "fdvdfv",
-      "day": "fvdfvfv",
-      "reminder": false,
-      "id": 8
-    },
-    {
-      "text": "dd",
-      "day": "dd",
-      "reminder": false,
-      "id": 9
-    },
-    {
-      "text": "efef",
-      "day": "efefef",
-      "reminder": false,
-      "id": 10
-    },
-    {
-      "text": "rgrg",
-      "day": "gggg",
-      "reminder": false,
-      "id": 11
-    },
-    {
-      "text": "fvdfvrv",
-      "day": "gggggg",
-      "reminder": false,
-      "id": 12
     }
   ]
 }
